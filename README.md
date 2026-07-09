@@ -1,10 +1,10 @@
-# 3D Portfolio Website
+# Subodh Raut | 3D Portfolio
 
-This repository contains the source code for a personal 3D portfolio built with React, TypeScript, Three.js, React Three Fiber, and GSAP. It includes animated page sections, a character scene, custom cursor interactions, and smooth transitions designed for a modern portfolio experience.
+This repository contains the source code for my personal 3D portfolio built using React, TypeScript, Three.js, React Three Fiber, and GSAP. It showcases my experience as a Software Engineer, projects, technical skills, and interactive 3D animations with a modern user experience.
 
-Live site: [https://akashrmalhotra.netlify.app/](https://akashrmalhotra.netlify.app/)
+Live site: [https://subodh-raut-portfolio.netlify.app/](https://subodh-raut-portfolio.netlify.app/)
 
-![Portfolio Preview](public/images/preview1.png)
+![Portfolio Preview](public/images/subodh-portfolio-preview.png)
 
 ## Table of Contents
 
