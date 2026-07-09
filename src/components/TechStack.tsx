@@ -25,7 +25,20 @@ const imageUrls = [
   "/images/excel.webp",
   "/images/powerbi.webp",
   "/images/javascript.webp",
-];
+  "/images/python.webp",
+  "/images/html5.webp",
+  "/images/git.webp",
+  "/images/gitlab.webp",
+  "/images/netlify.webp",
+  "/images/vercel.webp",
+  "/images/NumPy.webp",
+  "/images/PostgreSQL.webp",
+  "/images/jupyter.webp",
+  "/images/scikit-learn.webp",
+  "/images/bootstrap.webp",
+  "/images/CSS3.webp",
+  "/images/pandas.webp",
+  ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 
 const sphereGeometry = new THREE.SphereGeometry(1, 28, 28);
